@@ -7,5 +7,6 @@
 
 - 프로젝트 구조
 ![image](https://user-images.githubusercontent.com/70957134/160249489-aaea1ddd-bdba-4cee-b718-b2f431b9a871.png)
-
+- 설명영상
+https://youtu.be/_WLetIuQOFY
 - 자세한 설명은 캡스톤 제안서 pdf 파일 확인!
